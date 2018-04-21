@@ -34,4 +34,4 @@ emlog后台写文章新浪上传图片插件
 ```
 > 成功返回000状态码和图片地址，失败返回状态码和原因
 
-![](https://ws1.sinaimg.cn/large/0072Vf1pgy1fqkhhzq5raj30zv0kf124.jpg)
+![](https://ws1.sinaimg.cn/large/0072Vf1pgy1fqkhhzq5raj30zv0kf124.jpg?a=1)
