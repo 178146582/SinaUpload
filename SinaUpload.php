@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: 新浪图床
-Version: 1.0
+Version: 1.1
 Description: 把图片上传到新浪云存储
 Author: 阿珏
 Author URL: http://www.52ecy.cn
